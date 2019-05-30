@@ -45,7 +45,7 @@ vector<int> Num2 - вектор, хранящий генерируемый но�
 
 ##СТРОКИ С ФУНКЦИЯМИ АТД:
 
-а) Добавление в конец очереди: https://github.com/davismariotti/RestaurantSimulator/blob/2073b74fb2d6f7ee69de1e49c9132fbc2c553384/EatingQueue.h#L43
+а) Добавление в конц очереди: https://github.com/davismariotti/RestaurantSimulator/blob/2073b74fb2d6f7ee69de1e49c9132fbc2c553384/EatingQueue.h#L43
 
 б) Удаление из начала очереди: https://github.com/davismariotti/RestaurantSimulator/blob/2073b74fb2d6f7ee69de1e49c9132fbc2c553384/TableQueue.h#L58
 
